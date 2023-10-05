@@ -1,7 +1,7 @@
 # Projeto Conta Bancária
 
 #### Autor
-- [Emmanuel De Luca](https://github.com/EmmanuelDeLuca)
+- [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
 
